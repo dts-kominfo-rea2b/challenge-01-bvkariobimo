@@ -57,7 +57,7 @@ const secondUser = {
         }
     ],
     favoriteRestaurant: [
-        'Tempura', 'Bento', 'Sushi', 'Pancake', 'Padang', 'Katsu', 'Geprek', 'Pancake', 'Eggy'
+        'Tempura', 'Bento', 'Sushi', 'Pancake', 'Padang', 'Katsu', 'Geprek', 'Eggy'
     ]
 };
 
